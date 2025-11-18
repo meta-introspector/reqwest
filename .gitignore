@@ -2,3 +2,4 @@ target
 Cargo.lock
 *.swp
 .ideaprocess-repo.log
+process-repo.log
